@@ -6,12 +6,13 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
+			Personal Blog for SAYED to write about his thoughts and ideas
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/suits_at">Follow on Twitter</a>
-			<a href="https://github.com/suits-at/netlifycms-gridsome">GitHub</a>
+			<a href="https://abusayed.dev/">About</a>
+			<a href="https://about.sayed.page/">আমার সম্পর্কে</a>
+			<a href="https://sayed.page/">Another Blog</a>
 		</p>
 
 	</div>
