@@ -23,6 +23,7 @@
 
     <div class="post-comments">
       <!-- Add comment widgets here -->
+      <Disqus shortname="abusayed0206" :identifier="$page.post.title" />
     </div>
 
     <Author class="post-author" />
