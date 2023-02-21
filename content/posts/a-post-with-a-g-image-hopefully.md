@@ -1,11 +1,10 @@
 ---
-title: A post with a g-image (hopefully)
-date: 2020-07-25T20:21:08.117Z
+title: 0206 History
+date: 2022-06-17T19:52:00.000Z
 published: true
 tags:
-  - g-image
-  - test
-cover_image: ../../static/images/uploads/mads-schmidt-rasmussen-xfngap_dtoe-unsplash.jpg
-description: Just one more test...
+  - Personal
+cover_image: ../../static/images/uploads/og_sayed.png
+description: 02+20+06!28 02+20+06=0206 There a long story about 0206. It started in 2014.
 ---
-With a body too, of course ;)
+02+20+06!28 02+20+06=0206 There a long story about 0206. It started in 2014.
